@@ -6,3 +6,4 @@ Rencana Pembelajaran Fullstack Web Developer MSIB Batch 4
 -GitHub
 -Javascript
 -Rest API
+-Final Project
